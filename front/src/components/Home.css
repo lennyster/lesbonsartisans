@@ -1,0 +1,9 @@
+body {
+    overflow-y: hidden;
+}
+
+.home {
+    background-image: url('../assets/img/le_jeune_cinema.jpg');
+    height: 750px !important;
+}
+
