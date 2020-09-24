@@ -4,7 +4,7 @@ import { Box,  Grid, makeStyles,  TextField, Typography } from '@material-ui/cor
 import Button from '@material-ui/core/Button';
 import Alert from '@material-ui/lab/Alert';
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(() => ({
     root: {
       flexGrow: 1,
     },
